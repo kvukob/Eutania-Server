@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{919F2B3E-5F4E-41F1-BB3F-7A3C977FD543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLib", "GameLib\GameLib.csproj", "{6C68CD5D-C694-4C36-932F-B29986365DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{919F2B3E-5F4E-41F1-BB3F-7A3C977FD543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919F2B3E-5F4E-41F1-BB3F-7A3C977FD543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919F2B3E-5F4E-41F1-BB3F-7A3C977FD543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919F2B3E-5F4E-41F1-BB3F-7A3C977FD543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C68CD5D-C694-4C36-932F-B29986365DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C68CD5D-C694-4C36-932F-B29986365DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C68CD5D-C694-4C36-932F-B29986365DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C68CD5D-C694-4C36-932F-B29986365DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
